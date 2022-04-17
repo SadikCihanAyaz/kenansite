@@ -12,9 +12,8 @@ lang = lang.substr(0,2).toLowerCase();
 
 if(lang=='tr'){/////////////////////////////TR////////////////////////////////////////////////////
 
-    strings["AboutUs_index"]                              = "HAKKIMIZDA";
-    strings["ContactUs_index"]                              = "İLETİŞİM";
-    strings["AboutUs_about"]                              = "HAKKIMIZDA";
+    strings["AboutUs"]                              = "HAKKIMIZDA";
+    strings["ContactUs"]                              = "İLETİŞİM";
     
     strings["OurClients"]                              = "REFERANSLARIMIZ";
     strings["OurWorks"]                              = "FAALİYETLERİMİZ";
@@ -25,11 +24,10 @@ if(lang=='tr'){/////////////////////////////TR//////////////////////////////////
         
 }else{//////////////////////////////////////EN///////////////////////////////////////////////////
 
-strings["AboutUs_index"]                              = "About Us";
-strings["ContactUs_index"]                              = "Contact Us";
-strings["AboutUs_about"]                              = "HAKKIMIZDA";
+strings["AboutUs"]                              = "About Us";
+strings["ContactUs"]                              = "Contact Us";
 
-strings["OurClients_index"]                              = "Our Clients";
+strings["OurClients"]                              = "Our Clients";
 strings["OurWorks"]                              = "Our Works";
 strings["wedo"]                                   = "WE DO REAL ESTATE";
 strings["AboutUsDetail"]                             = "WE DO REAL ESTATE";
