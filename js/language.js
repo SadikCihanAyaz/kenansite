@@ -12,15 +12,23 @@ lang = lang.substr(0,2).toLowerCase();
 
 if(lang=='tr'){/////////////////////////////EN////////////////////////////////////////////////////
 
-    strings["AboutUs"]                              = "About Us123";
-    strings["ContactUs"]                              = "Cosdsds";
-    strings["OurClients"]                              = "DAYIII";
+    strings["AboutUs"]                              = "HAKKIMIZDA";
+    strings["ContactUs"]                              = "İLETİŞİM";
+    strings["OurClients"]                              = "REFERANSLARIMIZ";
+    strings["OurWorks"]                              = "FAALİYETLERİMİZ";
+    strings["wedo"]                              = "EMLAK İŞLERİ YAPIYORUZ";
+    strings["AboutUsDetail"]                              = "EMLAK İŞLERİ YAPIYORUZEMLAK İŞLERİ YAPIYORUZEMLAK İŞLERİ YAPIYORUZEMLAK İŞLERİ YAPIYORUZ";
+    
+    
         
 }else{//////////////////////////////////////TR///////////////////////////////////////////////////
 
 strings["AboutUs"]                              = "About Us";
 strings["ContactUs"]                              = "Contact Us";
 strings["OurClients"]                              = "Our Clients";
+strings["OurClients"]                              = "Our Works";
+strings["wedo"]                                   = "WE DO REAL ESTATE";
+strings["AboutUsDetail"]                             = "WE DO REAL ESTATE";
 
 }
 
