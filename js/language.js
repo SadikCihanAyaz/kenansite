@@ -10,11 +10,12 @@ lang = lang.substr(0,2).toLowerCase();
 
 
 
-if(lang=='tr'){/////////////////////////////EN////////////////////////////////////////////////////
+if(lang=='tr'){/////////////////////////////TR////////////////////////////////////////////////////
 
-    strings["AboutUs"]                              = "HAKKIMIZDA";
-    strings["AboutUs_abouthtml"]                              = "HAKKIMIZDA";
-    strings["ContactUs"]                              = "İLETİŞİM";
+    strings["AboutUs_index"]                              = "HAKKIMIZDA";
+    strings["ContactUs_index"]                              = "İLETİŞİM";
+    strings["AboutUs_about"]                              = "HAKKIMIZDA";
+    
     strings["OurClients"]                              = "REFERANSLARIMIZ";
     strings["OurWorks"]                              = "FAALİYETLERİMİZ";
     strings["wedo"]                              = "EMLAK İŞLERİ YAPIYORUZ";
@@ -22,21 +23,24 @@ if(lang=='tr'){/////////////////////////////EN//////////////////////////////////
     
     
         
-}else{//////////////////////////////////////TR///////////////////////////////////////////////////
+}else{//////////////////////////////////////EN///////////////////////////////////////////////////
 
-strings["AboutUs"]                              = "About Us";
-strings["AboutUs_abouthtml"]                              = "HAKKIMIZDA";
-strings["ContactUs"]                              = "Contact Us";
-strings["OurClients"]                              = "Our Clients";
-strings["OurClients"]                              = "Our Works";
+strings["AboutUs_index"]                              = "About Us";
+strings["ContactUs_index"]                              = "Contact Us";
+strings["AboutUs_about"]                              = "HAKKIMIZDA";
+
+strings["OurClients_index"]                              = "Our Clients";
+strings["OurWorks"]                              = "Our Works";
 strings["wedo"]                                   = "WE DO REAL ESTATE";
 strings["AboutUsDetail"]                             = "WE DO REAL ESTATE";
 
 }
 
-console.log(Object.values(strings)[0]);
-
 for(var i=0; i< Object.keys(strings).length; i++)
 {
-    document.getElementById(Object.keys(strings)[i]).innerHTML = Object.values(strings)[i];
+    if(document.getElementById(Object.keys(strings)[i]) !== null)
+    {
+      document.getElementById(Object.keys(strings)[i]).innerHTML = Object.values(strings)[i];
+    }
+
 }
