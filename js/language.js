@@ -27,6 +27,11 @@ if(lang=='tr'){/////////////////////////////TR//////////////////////////////////
     strings["AboutUsDetail"]                         = "EMLAK İŞLERİ YAPIYORUZEMLAK İŞLERİ YAPIYORUZEMLAK İŞLERİ YAPIYORUZEMLAK İŞLERİ YAPIYORUZ";
     strings["Client_Area"]                          = "FAALİYET ALANLARIMIZ";
     strings["AboutUs1"]                              = "HAKKIMIZDA";
+    strings["Contact"]                              = "İLETİŞİM BİLGİLERİ";
+    strings["FullName"]                              = "AD SOYAD";
+    strings["Email"]                              = "EMAİL";
+    strings["Address"]                              = "ADRES";
+    strings["PhoneNumber"]                           = "TELEFON NUMARASI";
     
     
         
@@ -47,6 +52,11 @@ strings["Client_Detail5"]                          = "MİMARLIK VE MÜHENDİSLİ
 strings["Client_Detail6"]                          = "GAYRÜMENKUL PAZARLAMA(REAL ESTATE)";
 strings["Client_Area"]                          = "FAALİYET ALANLARIMIZ";
 strings["AboutUs1"]                                = "About Us";
+strings["Contact"]                              = "CONTACT INFORMATION";
+strings["FullName"]                              = "Full Name";
+strings["Email"]                              = "Email";
+strings["Address"]                              = "Address";
+strings["PhoneNumber"]                           = "Phone Number";
 
 }
 
