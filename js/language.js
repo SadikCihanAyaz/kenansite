@@ -29,9 +29,12 @@ if(lang=='tr'){/////////////////////////////TR//////////////////////////////////
     strings["AboutUs1"]                              = "HAKKIMIZDA";
     strings["Contact"]                              = "İLETİŞİM BİLGİLERİ";
     strings["FullName"]                              = "AD SOYAD";
-    strings["Email"]                              = "EMAİL";
-    strings["Address"]                              = "ADRES";
-    strings["PhoneNumber"]                           = "TELEFON NUMARASI";
+    strings["Email"]                              = "Email: insaatacaryap@gmail.com";
+    strings["Address"]                              = "Adres : BÜYÜK ÇAVUŞLU MAHALLESİ İSTASYON CADDESİ NO:33/1 SİLİVRİ/İSTANBUL";
+    strings["AddressDetail"]                              = "BÜYÜK ÇAVUŞLU MAHALLESİ İSTASYON CADDESİ NO:33/1 SİLİVRİ/İSTANBUL";
+    strings["PhoneNumber"]                           = "Tel : 05458332532";
+    strings["PhoneNumberDetail"]                           = "05458332532";
+    strings["EmailDetail"]                           = "insaatacaryap@gmail.com";
     
     
         
@@ -44,7 +47,7 @@ strings["OurWorks"]                               = "Our Works";
 strings["wedo"]                                   = "WE DO REAL ESTATE";
 strings["AboutUsDetail"]                          = "WE DO REAL ESTATE";
 strings["ManinPage"]                             = "Main Page";
-strings["Client_Detail1"]                          = "MÜHENDİSLİK FAALİYETLERİ";
+strings["Client_Detail1"]                          = "MÜHENDİSLİK YAPILARI";
 strings["Client_Detail2"]                          = "ENDÜSTRİYEL TESİSLER";
 strings["Client_Detail3"]                          = "RESTORASYON";
 strings["Client_Detail4"]                          = "BİNA VE DEKORASYON İŞLERİ";
