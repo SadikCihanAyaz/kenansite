@@ -24,17 +24,17 @@ if(lang=='tr'){/////////////////////////////TR//////////////////////////////////
     strings["Client_Detail4"]                          = "BİNA VE DEKORASYON İŞLERİ";
     strings["Client_Detail5"]                          = "MİMARLIK VE MÜHENDİSLİK HİZMETLERİ VE PROJE GELİŞTİRME";
     strings["Client_Detail6"]                          = "GAYRÜMENKUL PAZARLAMA(REAL ESTATE)";
-    strings["AboutUsDetail"]                         = "EMLAK İŞLERİ YAPIYORUZEMLAK İŞLERİ YAPIYORUZEMLAK İŞLERİ YAPIYORUZEMLAK İŞLERİ YAPIYORUZ";
+    strings["AboutUsDetail"]              = "Türkiye’nin köklü ve itibarlı büyük işletmelerinden biri olma hedefiyle inşaat  , mühendislik - mimarlık hizmetleri , restorasyon  ve gayrimenkul pazarlama sektörlerinde hizmet vermektedir.";
+    strings["AboutUsDetail1"] ="En karmaşık projeleri başarıyla üstlenebilecek ve hayata geçirebilecek durumda olan bir ekip anlayışıyla hareket eden acaryap inşaat ; Odak noktası müşterileri, çalışanları, tedarikçileri ve toplum olan şirket, sahip olduğu bilgi birikimi, beceri ve deneyimi sayesinde piyasada yektin bir ünvana sahiptir.";
+    strings["AboutUsDetail2"] ="Sektörde uzmanlaşmış ekibiyle sıfır kaza ve hata oranıyla tüm projeleri hayata geçirmeye kararlıdır ve yeni iş alanlarında yatırım yaparak paydaşları için daha fazla değer yaratacak kapsamlı teknik bilgiyi istikrarla kullanmaya devam etmektedir.";
+    strings["AboutUsDetail3"] ="Geniş perspektif vizyonu anlayışıyla ve yeni teknolojik araçları kullanma yöntemleriyle yurtiçinde ve yurtdışında yeni projelere öncülük etmeyi hedeflemiş kurumsal bir dünya şirketi ilkesini benimsemiştir.";
     strings["Client_Area"]                          = "FAALİYET ALANLARIMIZ";
     strings["AboutUs1"]                              = "HAKKIMIZDA";
     strings["Contact"]                              = "İLETİŞİM BİLGİLERİ";
     strings["FullName"]                              = "AD SOYAD";
     strings["Email"]                              = "Email: insaatacaryap@gmail.com";
     strings["Address"]                              = "Adres : BÜYÜK ÇAVUŞLU MAHALLESİ İSTASYON CADDESİ NO:33/1 SİLİVRİ/İSTANBUL";
-    strings["AddressDetail"]                              = "BÜYÜK ÇAVUŞLU MAHALLESİ İSTASYON CADDESİ NO:33/1 SİLİVRİ/İSTANBUL";
     strings["PhoneNumber"]                           = "Tel : 05458332532";
-    strings["PhoneNumberDetail"]                           = "05458332532";
-    strings["EmailDetail"]                           = "insaatacaryap@gmail.com";
     
     
         
@@ -60,6 +60,10 @@ strings["FullName"]                              = "Full Name";
 strings["Email"]                              = "Email";
 strings["Address"]                              = "Address";
 strings["PhoneNumber"]                           = "Phone Number";
+strings["AboutUsDetail"]              = "Türkiye’nin köklü ve itibarlı büyük işletmelerinden biri olma hedefiyle inşaat  , mühendislik - mimarlık hizmetleri , restorasyon  ve gayrimenkul pazarlama sektörlerinde hizmet vermektedir.";
+strings["AboutUsDetail1"] ="En karmaşık projeleri başarıyla üstlenebilecek ve hayata geçirebilecek durumda olan bir ekip anlayışıyla hareket eden acaryap inşaat ; Odak noktası müşterileri, çalışanları, tedarikçileri ve toplum olan şirket, sahip olduğu bilgi birikimi, beceri ve deneyimi sayesinde piyasada yektin bir ünvana sahiptir.";
+strings["AboutUsDetail2"] ="Sektörde uzmanlaşmış ekibiyle sıfır kaza ve hata oranıyla tüm projeleri hayata geçirmeye kararlıdır ve yeni iş alanlarında yatırım yaparak paydaşları için daha fazla değer yaratacak kapsamlı teknik bilgiyi istikrarla kullanmaya devam etmektedir.";
+strings["AboutUsDetail3"] ="Geniş perspektif vizyonu anlayışıyla ve yeni teknolojik araçları kullanma yöntemleriyle yurtiçinde ve yurtdışında yeni projelere öncülük etmeyi hedeflemiş kurumsal bir dünya şirketi ilkesini benimsemiştir.";
 
 }
 
