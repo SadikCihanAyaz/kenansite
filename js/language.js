@@ -35,6 +35,12 @@ if(lang=='tr'){/////////////////////////////TR//////////////////////////////////
     strings["Email"]                              = "Email: insaatacaryap@gmail.com";
     strings["Address"]                              = "Adres : BÜYÜK ÇAVUŞLU MAHALLESİ İSTASYON CADDESİ NO:33/1 SİLİVRİ/İSTANBUL";
     strings["PhoneNumber"]                           = "Tel : 05458332532";
+    strings["Ourwork_Area"]                           = "PROJELERİMİZ";
+    strings["Ourwork_Detail1"]                          = "istanbul havalimanı Çelik konstrüksiyon çatı inşaatı denetimi ve kontrol hizmetleri";
+    strings["Ourwork_Detail2"]                          = "İBB kemerburgaz katı atık yakma tesisi Çelik konstrüksiyon inşaatı";
+    strings["Ourwork_Detail3"]                          = "Edirne- Malkara viyadük ve otoyol prekast inşaatı";
+    strings["Ourwork_Detail4"]                          = "Silivri Acarbey çiftliği inşaatı projelendirme ve uygulama";
+    strings["Ourwork_Detail5"]                          = "Tuzla milenyum park evleri villa tadilat , onarım ve yenileme";
     
     
         
@@ -64,7 +70,12 @@ strings["AboutUsDetail"]              = "It provides services in the constructio
 strings["AboutUsDetail1"] ="Acting with the understanding of a team that can successfully undertake and implement the most complex projects, acaryap İnşaat; Focusing on its customers, employees, suppliers and society, the company has a competent reputation in the market thanks to its knowledge, skills and experience.";
 strings["AboutUsDetail2"] ="It is determined to implement all projects with zero accident and error rate with its team specialized in the sector, and continues to consistently use comprehensive technical knowledge that will create more value for its stakeholders by investing in new business areas.";
 strings["AboutUsDetail3"] ="It has adopted the principle of a corporate world company, aiming to pioneer new projects at home and abroad with its broad perspective vision and methods of using new technological tools.";
-
+strings["Ourwork_Area"]                           = "PROJECTS";
+strings["Ourwork_Detail1"]                          = "İstanbul airport Steel construction roof construction inspection and control services";
+strings["Ourwork_Detail2"]                          = "İBB Kemerburgaz solid waste incineration plant Steel construction construction";
+strings["Ourwork_Detail3"]                          = "Edirne-Malkara viaduct and highway precast construction";
+strings["Ourwork_Detail4"]                          = "Silivri Acarbey farm construction project and application";
+strings["Ourwork_Detail5"]                          = "Tuzla millennium park houses villa renovation, repair and renovation";
 }
 
 for(var i=0; i< Object.keys(strings).length; i++)
